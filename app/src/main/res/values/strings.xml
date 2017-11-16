@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ClientApp</string>
+    <string name="clientName">Nom</string>
+    <string name="add_client">Ajouter un client</string>
+    <string name="clientFirstName">Prénom</string>
+    <string name="list_client">Lister les clients</string>
+    <string name="date_picker">Date de naissance</string>
+
+    <string-array name="listeNiveau">
+        <item>Debutant</item>
+        <item>Intermediaire</item>
+        <item>Expert</item>
+    </string-array>
+
+
+</resources>
